@@ -2,7 +2,7 @@
 <img width="1751" height="515" alt="Screenshot 2026-10-06 154203" src="https://github.com/user-attachments/assets/60b3d230-8c62-41ce-b133-6e64f96cf069" />
 
 ## Motivation
-I built this model to learn DCF valuation hands-on using a real, high-profile company. NVIDIA was a natural choice as it is a leader in artificial intelligence chips, controlling roughly 90% of the data center GPU market and driving a valuation above US$5 trillion. Additionally, its rapid revenue growth driven by AI/data centre demand makes it an interesting and challenging subject to value, precisely because standard assumptions (stable margins, predictable growth) don't apply cleanly. Working through the calendarization, scenario construction, and terminal value mechanics on a live company made the concepts stick in a way that theory alone wouldn't.
+I built this model to learn DCF valuation hands-on using a real, high-profile company. NVIDIA was a natural choice as it is a leader in artificial intelligence chips, controlling roughly 90% of the data center GPU market and has a market cap above US$5 trillion. Additionally, its rapid revenue growth driven by AI/data centre demand makes it an interesting and challenging subject to value, precisely because standard assumptions (stable margins, predictable growth) don't apply cleanly. Working through the calendarization, scenario construction, and terminal value mechanics on a live company made the concepts stick in a way that theory alone wouldn't.
 
 ## Introduction
 This project is a Discounted Cash Flow (DCF) valuation model for NVIDIA Corporation (NASDAQ: NVDA), built in Microsoft Excel. It estimates NVIDIA's intrinsic value by projecting future free cash flows and discounting them back to the present. 
