@@ -33,6 +33,19 @@ NVIDIA's fiscal year ends in late January (~Jan 31). All historical and projecte
 
 ### 
 
+### Key Assumptions
+| Parameter | Conservative | Street/Base | 	Optimistic | 
+| ----------- | ----------- | ----------- | ----------- |
+| WACC | 	14.95% | 14.45% | 12.50% |
+| Terminal Growth Rate | 2.0% | 2.5% | 3.0% |
+| Revenue Growth (CY2030) | ~10% | ~15% | ~20% |
+| Effective Tax Rate | Trending to 17% by CY2030 
+
+- **Beta**: 2.22 (5-year monthly vs S&P 500)
+- **Risk-Free Rate**: 5.275% (10-year US Treasury)
+- **Market Risk Premium**: 4.14%
+- **Diluted Shares Outstanding**: ~24,150M (post 10:1 split, June 2024)
+
 ## Conclusion
 
 
