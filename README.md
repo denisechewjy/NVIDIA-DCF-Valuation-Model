@@ -103,8 +103,7 @@ The exercise also highlighted the importance of methodological rigour: errors li
 
 NVIDIA remains a genuinely difficult company to value. Its revenue has grown from ~$10B in FY2022 to over $130B in FY2026 on the back of AI infrastructure demand, and whether that trajectory continues, plateaus, or reverses depends on factors — competition, export controls, AI adoption rates, next-generation product cycles. 
 
-## Limitations & Disclaimer
-- This model is built for educational and analytical purposes only.
+## Limitations
 - Consensus estimates beyond CY2028 have sparse analyst coverage (3–5 analysts) and carry significant uncertainty.
 - NVIDIA operates in a rapidly evolving AI/semiconductor industry; realized results may differ materially from projections.
 
