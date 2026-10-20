@@ -68,7 +68,7 @@ The Terminal Value above is an undiscounted lump sum at the end of Year 5. It mu
 - **Cost of Equity (CAPM)**: ~14.45% (Cost of Equity = Risk Free Rate + (Beta x Market Risk Premium))
 - **Cost of Debt**: 2.4% (Derived from NVDA's interest expense relative to total debt)
 - **Diluted Shares Outstanding**: ~24,150M (post 10:1 split, June 2024)
-- **Capital Structure**: ~99% equity (NVIDIA's market cap (~$5.6T) dwarfs its debt ($32B), making the debt weight negligible)
+- **Capital Structure**: 99% equity (NVIDIA's market cap (~$5.6T) dwarfs its debt ($32B), making the debt weight negligible)
 
 ### Terminal Growth Rate
 - Conservative (2.0%): Approximately zero real growth - only inflation keeps revenue growing
